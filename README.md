@@ -26,7 +26,7 @@ Imagery is a template app for image generation that utilizes the OpenAI API to c
 in ```
      imagery/src/Components/Imagery/Imagery.jsx
      ```
-     Replace YOUR_API_KEY with your actualy OpenAI API key.
+     Replace YOUR_API_KEY with your actual OpenAI API key.
 
 Enjoy the project💪
 
