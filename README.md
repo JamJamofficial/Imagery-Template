@@ -30,9 +30,13 @@ in ```
 
 Enjoy the project💪
 
-Make sure to follow me on 
-    <a href="https://www.instagram.com/jamjam_officiale">IG</a>
-    
+---
+
+### 🔗 Connect with Me  
+📸 <a href="https://www.linktr.ee/jamjam_official">Socials</a>
+📧 jamjamofficial@email.com
+
+
 I will be updating this code frequently!
 
     
